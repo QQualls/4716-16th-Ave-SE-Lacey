@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://qqualls.github.io/4716-16th-Ave-SE-Lacey/sitemap.xml
